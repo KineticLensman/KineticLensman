@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @KineticLensman
-- 👀 I’m interested in finding new skills following my retirement
-- 🌱 I’m currently learning about cardiac function, complex numbers and birds of prey
+- 👀 I’m supporting raptor conservation following my retirement, with a couple of personal software projects to my keep my hand in
 - 💞️ I’m not looking to collaborate yet
 - 📫 You can reach me at john dot kent dot <number> forty two at gmail dot com
 
